@@ -53,7 +53,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](output.jpg)
+![best fit line](Output.jpg)
 
 
 ## Result:
